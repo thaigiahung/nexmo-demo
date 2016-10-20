@@ -1,0 +1,10 @@
+[
+    {
+        "action": "talk",
+        "text": "Hi, thanks for calling zanmedia, our next available support agent will take your call shortly"
+    },
+    {
+        "action": "stream",
+        "streamUrl": ["https://nexmo-community.github.io/ncco-examples/assets/voice_api_audio_streaming.mp3"]
+    }
+]
